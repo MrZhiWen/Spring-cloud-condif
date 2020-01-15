@@ -1,7 +1,9 @@
 server:
-  port: 8018
+  port: 9000
 spring:
   zipkin:
     base-url: http://localhost:8092
     sender:
       type: web
+
+
